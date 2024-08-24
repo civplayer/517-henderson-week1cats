@@ -12,3 +12,6 @@ Practice repo for 517
 
 Map of Original Civlizations
 (images/map.jpg)
+
+Link to study material
+https://docs.google.com/document/d/1014jFzbJIofB3yyWlxk5cn4dQ7SW0VhzNKDdhS88A2s/edit?usp=sharing=======>>>>>>> main
