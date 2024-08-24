@@ -1,4 +1,4 @@
-# 517 HENDERSON-WEEK1CATS
+# 517 HENDERSON-WEEK1REP
 Practice repo for 517
 ## Social Studies
 ### Original Civilizations of the New World
