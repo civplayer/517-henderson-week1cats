@@ -1,4 +1,4 @@
-# 517 HENDERSON-WEEK1CATS
+# 517 HENDERSON-WEEK1REP
 Practice repo for 517
 ## Social Studies
 ### Original Civilizations of the New World
@@ -14,4 +14,4 @@ Map of Original Civlizations
 (images/map.jpg)
 
 Link to study material
-https://docs.google.com/document/d/1014jFzbJIofB3yyWlxk5cn4dQ7SW0VhzNKDdhS88A2s/edit?usp=sharing
+https://docs.google.com/document/d/1014jFzbJIofB3yyWlxk5cn4dQ7SW0VhzNKDdhS88A2s/edit?usp=sharing=======>>>>>>> main
